@@ -14,7 +14,8 @@ I’m a **data analyst** who believes that data can drive better decisions acros
 - **Hospital De la Princesa** | **Data Analysis Unit** | Madrid - Spain
 
 ## 🔭 Publications:
-- Bongiorno, R., Lecchi, M., Botti, L. et al. Mast cell heparanase promotes breast cancer stem-like features via MUC1/estrogen receptor axis. Cell Death Dis 15, 709 (2024). https://doi.org/10.1038/s41419-024-07092-9
+- [Mast cell heparanase promotes breast cancer stem-like features via MUC1/estrogen receptor axis](https://doi.org/10.1038/s41419-024-07092-9)
+- [Nyssen, O.P.; Pratesi, P.; Spínola, M.A.; Jonaitis, L.; Pérez-Aísa, Á.; Vaira, D.; Saracino, I.M.; Pavoni, M.; Fiorini, G.; Tepes, B.; et al. Analysis of Clinical Phenotypes through Machine Learning of First-Line H. pylori Treatment in Europe during the Period 2013–2022: Data from the European Registry on H. pylori Management (Hp-EuReg). Antibiotics 2023, 12, 1427](https://doi.org/10.3390/antibiotics12091427)
 
 
 ## 📚 Education:
