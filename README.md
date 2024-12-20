@@ -3,19 +3,19 @@ I’m a **data analyst** who believes that data can drive better decisions acros
 
 ## 📊 What I Do:  
 -	In my current role, I work extensively with high-dimensional data such as **metagenomics** and **transcriptomics**. My focus is on identifying **biomarkers** that can help guide clinical decision-making, using rigorous statistical methods to discover patterns and predictors of disease behavior.
-•	A critical aspect of my work is ensuring that the **data cleaning** and **preprocessing** phase is handled with meticulous care. I firmly believe that high-quality data is the foundation for producing reliable and meaningful results. This involves **handling missing data**, identifying and **correcting errors**, **transforming variables** and ensuring that the dataset is properly structured. I see data preparation as not just a preliminary step but as the cornerstone of the entire analytical process. Without this careful attention, even the most sophisticated models can lead to misleading or inaccurate conclusions. 
-•	The following step is to perform **exploratory data analysis** to uncover initial trends or correlations that can be further investigated. 
-•	Once the data is properly prepared and explored, I apply advanced analytical techniques, including **regression analysis**, **predictive modeling** and **machine learning**. These methods enable me to identify patterns and key predictors related to the outcome of interest.
-•	By following these steps, I can use models that are not only **accurate**, but also **interpretable** and clinically relevant, also obtaining generalizable results through the use of **validation techniques**.
-•	The final step is to creating **clear visualizations** and **reports**, which are essential to translate intricate data into understandable formats to other professionals. 
+- A critical aspect of my work is ensuring that the **data cleaning** and **preprocessing** phase is handled with meticulous care. I firmly believe that high-quality data is the foundation for producing reliable and meaningful results. This involves **handling missing data**, identifying and **correcting errors**, **transforming variables** and ensuring that the dataset is properly structured. I see data preparation as not just a preliminary step but as the cornerstone of the entire analytical process. Without this careful attention, even the most sophisticated models can lead to misleading or inaccurate conclusions. 
+- The following step is to perform **exploratory data analysis** to uncover initial trends or correlations that can be further investigated. 
+- Once the data is properly prepared and explored, I apply advanced analytical techniques, including **regression analysis**, **predictive modeling** and **machine learning**. These methods enable me to identify patterns and key predictors related to the outcome of interest.
+- By following these steps, I can use models that are not only **accurate**, but also **interpretable** and clinically relevant, also obtaining generalizable results through the use of **validation techniques**.
+- The final step is to creating **clear visualizations** and **reports**, which are essential to translate intricate data into understandable formats to other professionals. 
 
 ## 📍 Experience:
 - **Istituto Nazionale dei Tumori** | **Bioinformatics and Biostatistics Unit**	| Milan - Italy
 - **Hospital De la Princesa** | **Data Analysis Unit** | Madrid - Spain
 
 ## 🔭 Publications:
-- [Mast cell heparanase promotes breast cancer stem-like features via MUC1/estrogen receptor axis](https://doi.org/10.1038/s41419-024-07092-9)
-- [Nyssen, O.P.; Pratesi, P.; Spínola, M.A.; Jonaitis, L.; Pérez-Aísa, Á.; Vaira, D.; Saracino, I.M.; Pavoni, M.; Fiorini, G.; Tepes, B.; et al. Analysis of Clinical Phenotypes through Machine Learning of First-Line H. pylori Treatment in Europe during the Period 2013–2022: Data from the European Registry on H. pylori Management (Hp-EuReg). Antibiotics 2023, 12, 1427](https://doi.org/10.3390/antibiotics12091427)
+- [Mast cell heparanase promotes breast cancer stem-like features via MUC1/estrogen receptor axis. Cell Death Dis. 2024](https://doi.org/10.1038/s41419-024-07092-9)
+- [Analysis of Clinical Phenotypes through Machine Learning of First-Line H. pylori Treatment in Europe during the Period 2013–2022: Data from the European Registry on H. pylori Management (Hp-EuReg). Antibiotics. 2023](https://doi.org/10.3390/antibiotics12091427)
 
 
 ## 📚 Education:
