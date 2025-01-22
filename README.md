@@ -6,7 +6,7 @@ I’m a **data analyst** who believes that data can drive better decisions acros
 - A critical aspect of my work is ensuring that the **data cleaning** and **preprocessing** phase is handled with meticulous care. I firmly believe that high-quality data is the foundation for producing reliable and meaningful results. This involves **handling missing data**, identifying and **correcting errors**, **transforming variables** and ensuring that the dataset is properly structured. I see data preparation as not just a preliminary step but as the cornerstone of the entire analytical process. Without this careful attention, even the most sophisticated models can lead to misleading or inaccurate conclusions. 
 - The following step is to perform **exploratory data analysis** to uncover initial trends or correlations that can be further investigated. 
 - Once the data is properly prepared and explored, I apply advanced analytical techniques, including **regression analysis**, **predictive modeling** and **machine learning**. These methods enable me to identify patterns and key predictors related to the outcome of interest.
-- By following these steps, I can use models that are not only **accurate**, but also **interpretable** and clinically relevant, also obtaining generalizable results through the use of **validation techniques**.
+- By following these steps, I can use models that are not only **accurate**, but also **interpretable** and relevant, also obtaining generalizable results through the use of **validation techniques**.
 - The final step is to creating **clear visualizations** and **reports**, which are essential to translate intricate data into understandable formats to other professionals. 
 
 ## 📍 Experience:
